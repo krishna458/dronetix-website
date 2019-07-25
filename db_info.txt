@@ -1,0 +1,8 @@
+Database Name : employee
+Table Name : emp_info
+emp_id		int(11)	 Primary
+emp_name	varchar(50)
+emp_username	varchar(50)
+emp_password	varchar(50)
+emp_email	varchar(50)
+emp_phone	bigint(20)
